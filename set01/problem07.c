@@ -34,4 +34,5 @@ int main()
   n=input();
   sum=sum_n_nos(n);
   output(n, sum);
-}
+  return 0;
+  }
